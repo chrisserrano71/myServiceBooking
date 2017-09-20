@@ -33,6 +33,39 @@
                 "electronicAddressType": "EMAIL"
             }
         ]
+    },
+        {
+        "id": "146275",
+        "partyName": "Chris Mckenzie",
+        "partyType": "I",
+        "identifiers": [
+            {
+                "idType": "SFDCID",
+                "idNumber": "0010c00001u2oSc"
+            },
+            {
+                "idType": "MYTOYOTAID",
+                "idNumber": "MYT-0001eb2c"
+            },
+            {
+                "idType": "OSB",
+                "idNumber": "OSB-0001eb2c"
+            }
+        ],
+        "firstName": "Chris",
+        "lastName": "McKenzie",
+        "phones": [
+            {
+                "phoneType": "M",
+                "phoneNumber": "0417575506"
+            }
+        ],
+        "electronicAddresses": [
+            {
+                "electronicAddress": "chris.mckenzie@cpbcon.com.au",
+                "electronicAddressType": "EMAIL"
+            }
+        ]
     }
 ]
 
